@@ -1,0 +1,22 @@
+:root {
+  --accent: #1abc9c;
+  --bg1: hsla(0, 0%, 75%);
+  --bg2: hsla(0, 0%, 80%);
+  --bg3: hsla(0, 0%, 85%);
+  --bg4: hsla(0, 0%, 90%);
+  --bg5: hsla(0, 0%, 95%);
+  --txt1: hsla(0, 0%, 10%);
+  --txt2: hsla(0, 0%, 20%);
+  --txt3: hsla(0, 0%, 30%);
+}
+body.dark {
+  --accent: #1abc9c;
+  --bg1: hsla(0, 0%, 5%);
+  --bg2: hsla(0, 0%, 10%);
+  --bg3: hsla(0, 0%, 15%);
+  --bg4: hsla(0, 0%, 20%);
+  --bg5: hsla(0, 0%, 25%);
+  --txt1: hsla(0, 0%, 90%);
+  --txt2: hsla(0, 0%, 80%);
+  --txt3: hsla(0, 0%, 70%);
+}
