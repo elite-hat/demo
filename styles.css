@@ -20,3 +20,10 @@ body.dark {
   --txt2: hsl(0, 0%, 80%);
   --txt3: hsl(0, 0%, 70%);
 }
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg1);
+}
