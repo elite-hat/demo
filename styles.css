@@ -8,6 +8,7 @@
   --txt1: hsl(0, 0%, 10%);
   --txt2: hsl(0, 0%, 20%);
   --txt3: hsl(0, 0%, 30%);
+  --txt-alt: hsl(0, 0%, 90%);
 }
 body.dark {
   --acc: hsl(170, 85%, 40%);
@@ -19,6 +20,7 @@ body.dark {
   --txt1: hsl(0, 0%, 90%);
   --txt2: hsl(0, 0%, 80%);
   --txt3: hsl(0, 0%, 70%);
+  --txt-alt: hsl(0, 0%, 10%);
 }
 html,
 body {
