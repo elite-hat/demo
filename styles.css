@@ -32,3 +32,14 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   transition: all 1000ms ease;
 }
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--bg2);
+  position: fixed;
+  height: 50px;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+}
