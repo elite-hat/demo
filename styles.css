@@ -60,3 +60,7 @@ nav ul li button {
   height: 30px;
   margin: 10px;
 }
+nav ul li button a {
+  color: var(--txt-alt);
+  text-decoration: none;
+}
