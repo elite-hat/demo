@@ -49,3 +49,7 @@ header {
   font-weight: bold;
   color: var(--acc);
 }
+nav ul {
+  display: flex;
+  list-style-type: none;
+}
