@@ -64,3 +64,6 @@ nav ul li button a {
   color: var(--txt-alt);
   text-decoration: none;
 }
+main {
+  margin-top: 70px;
+}
