@@ -88,7 +88,11 @@ section.hero figure img {
 section.hero .hero-content {
   margin: 0 0 0 20px;
 }
-section.hero .hero-content h1, h2 {
+section.hero .hero-content h1 {
+  margin: 0;
+  color: var(--txt1);
+}
+section.hero .hero-content h2 {
   margin: 0;
   color: var(--txt1);
 }
