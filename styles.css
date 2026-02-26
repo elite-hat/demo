@@ -15,7 +15,7 @@ body.dark {
   --bg2: hsl(0, 0%, 10%);
   --bg3: hsl(0, 0%, 15%);
   --txt1: hsl(0, 0%, 80%);
-  --txt3: hsl(0, 0%, 60%);
+  --txt2: hsl(0, 0%, 60%);
   --txt-alt: hsl(0, 0%, 10%);
 }
 html,
